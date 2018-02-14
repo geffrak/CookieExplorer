@@ -8,12 +8,8 @@ platforms )
 
 ## Build
 
-```
-cd build && cmake .. && make && cd -
-```
+`cd build && cmake .. && make && cd -`
 
 ## Run
 
-```
-build/CookieExplorer
-```
+`build/CookieExplorer`
