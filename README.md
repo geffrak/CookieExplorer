@@ -12,4 +12,4 @@ platforms )
 
 ## Run
 
-`build/CookieExplorer`
+`build/CookieExplorer https://website.com/`
