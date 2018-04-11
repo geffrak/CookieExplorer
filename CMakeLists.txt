@@ -8,3 +8,4 @@ find_package(Qt5 COMPONENTS Core Widgets WebEngine WebEngineWidgets REQUIRED)
 add_executable(CookieExplorer main.cpp)
 
 target_link_libraries(CookieExplorer Qt5::Core Qt5::Widgets Qt5::WebEngineCore Qt5::WebEngine Qt5::WebEngineWidgets )
+
